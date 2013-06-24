@@ -1,4 +1,4 @@
-hero-phpbb3
+hero-phpbb
 ===========
 
 Integrate a phpBB3 forum by sharing member accounts between your Hero site and phpBB3.
